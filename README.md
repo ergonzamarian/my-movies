@@ -1,5 +1,5 @@
 # my-movies
-Treinamento React da Pós Graduação em Arquitetura de Software Distribuido
+Treinamento React da Pós Graduação em Arquitetura de Software Distribuido, consumindo uma API de Filmes
 
 Para criação de um projeto React local temporário em minha máquina posso rodar o comando `npx create-react-app my-movies` a utilização do npx permite que eu não precise ficar instalando um monte de coisa em minha máquina para poder rodar
 
